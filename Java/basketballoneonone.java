@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*Kattis: 
+ Difficulty: 1.4 - Easy
+ Runtime: 0.08
+ Length: 298
+*/
+
+
 public class basketballoneonone
 {
     public static void main(String[] args)
